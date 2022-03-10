@@ -1,9 +1,0 @@
-[ott]
-title = "국립극단 ─ 온라인 극장"
-url = "https://on.ntck.or.kr/Product/OTT"
-entrySelector = "ul li.ng-scope[data-ng-repeat='item in ctrl.Performances']"
-titleSelector = "p.tit.ng-binding"
-linkSelector = "a"
-contentSelector = "div.prd_info"
-imageSelector = "div.thumbs img"
-waitUntil = "networkidle"
