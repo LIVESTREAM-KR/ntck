@@ -4,14 +4,14 @@
         <title>국립극단 ─ 온라인 극장</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 08:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 09:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[로드킬 인 더 씨어터]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257105</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257105</guid>
-            <pubDate>Thu, 30 Jun 2022 05:24:36 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">로드킬 인 더 씨어터</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">156분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -23,7 +23,7 @@
             <title><![CDATA[로드킬 인 더 씨어터(배리어프리-수어통역)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257104</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257104</guid>
-            <pubDate>Thu, 30 Jun 2022 05:24:36 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">로드킬 인 더 씨어터(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">156분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -35,7 +35,7 @@
             <title><![CDATA[로드킬 인 더 씨어터(배리어프리-화면해설)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257103</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257103</guid>
-            <pubDate>Thu, 30 Jun 2022 05:24:36 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">로드킬 인 더 씨어터(배리어프리-화면해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">157분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -47,7 +47,7 @@
             <title><![CDATA[소년이그랬다(남수현, 이문식 배우 편)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257096</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257096</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">소년이그랬다(남수현, 이문식 배우 편)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">74분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -59,7 +59,7 @@
             <title><![CDATA[소년이그랬다(김우진, 윤동원 배우 편)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257095</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257095</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">소년이그랬다(김우진, 윤동원 배우 편)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">70분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -71,7 +71,7 @@
             <title><![CDATA[만선]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257088</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257088</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">만선</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">111분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -83,7 +83,7 @@
             <title><![CDATA[알려지지 않은 예술가의 눈물과 자이툰 파스타]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257056</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257056</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">알려지지 않은 예술가의 눈물과 자이툰 파스타</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">126분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -95,7 +95,7 @@
             <title><![CDATA[조씨고아, 복수의 씨앗(디렉터스컷)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257055</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257055</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">조씨고아, 복수의 씨앗(디렉터스컷)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">145분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -107,7 +107,7 @@
             <title><![CDATA[조씨고아, 복수의 씨앗]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257054</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257054</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">조씨고아, 복수의 씨앗</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">146분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -119,7 +119,7 @@
             <title><![CDATA[X의 비극]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257053</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257053</guid>
-            <pubDate>Thu, 10 Mar 2022 12:42:22 GMT</pubDate>
+            <pubDate>Wed, 24 Aug 2022 09:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">X의 비극</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">97분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
