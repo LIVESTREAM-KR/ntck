@@ -4,14 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 16:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Apr 2024 17:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[벚꽃 동산 (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257217</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257217</guid>
-            <pubDate>Wed, 03 Apr 2024 05:14:12 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">120분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -23,7 +23,7 @@
             <title><![CDATA[벚꽃 동산(배리어프리-수어통역) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257216</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257216</guid>
-            <pubDate>Wed, 03 Apr 2024 05:14:12 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">120분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -35,7 +35,7 @@
             <title><![CDATA[벚꽃 동산(배리어프리-음성해설) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257215</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257215</guid>
-            <pubDate>Wed, 03 Apr 2024 05:14:12 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">벚꽃 동산(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">128분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -47,7 +47,7 @@
             <title><![CDATA[조씨고아, 복수의 씨앗(배리어프리-수어통역) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257187</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257187</guid>
-            <pubDate>Thu, 07 Dec 2023 05:14:26 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">조씨고아, 복수의 씨앗(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">146분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -59,7 +59,7 @@
             <title><![CDATA[조씨고아, 복수의 씨앗(배리어프리-음성해설) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257186</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257186</guid>
-            <pubDate>Thu, 07 Dec 2023 05:14:26 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">조씨고아, 복수의 씨앗(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">152분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -71,7 +71,7 @@
             <title><![CDATA[만선(배리어프리-수어통역) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257185</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257185</guid>
-            <pubDate>Thu, 07 Dec 2023 05:14:26 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">만선(배리어프리-수어통역)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">111분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -83,7 +83,7 @@
             <title><![CDATA[만선(배리어프리-음성해설) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257184</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257184</guid>
-            <pubDate>Thu, 07 Dec 2023 05:14:26 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">만선(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">118분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -95,7 +95,7 @@
             <title><![CDATA[[기획초청] 인어; 바다를 부른 여인 (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257181</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257181</guid>
-            <pubDate>Fri, 03 Nov 2023 05:13:16 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 인어; 바다를 부른 여인</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">103분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -107,7 +107,7 @@
             <title><![CDATA[[기획초청] 견고딕걸 (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257180</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257180</guid>
-            <pubDate>Fri, 03 Nov 2023 05:13:16 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 견고딕걸</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">82분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
@@ -119,7 +119,7 @@
             <title><![CDATA[[기획초청] 견고딕걸(배리어프리-음성해설) (국립극단 ─ 온라인 극장)]]></title>
             <link>https://on.ntck.or.kr/Product/OTT/Details/257179</link>
             <guid>https://on.ntck.or.kr/Product/OTT/Details/257179</guid>
-            <pubDate>Fri, 03 Nov 2023 05:13:16 GMT</pubDate>
+            <pubDate>Sun, 07 Apr 2024 17:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<p class="tit ng-binding" data-ng-bind="item.PerformanceName">[기획초청] 견고딕걸(배리어프리-음성해설)</p>
                                 <p class="time ng-binding" data-ng-bind="item.RunningTime">91분</p>
                                 <p class="txt ng-binding" data-ng-bind="item.SubTitle"></p>
